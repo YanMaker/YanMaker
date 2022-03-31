@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanMaker&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ![Metrics](https://metrics.lecoq.io/YanMaker?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FNew_York)
-![snake](https://raw.githubusercontent.com/notAperson535/notAperson535/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/YanMaker/YanMaker/output/github-contribution-grid-snake.svg)
