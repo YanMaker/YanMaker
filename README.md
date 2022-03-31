@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanMaker&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)[user=YanMaker&date_format=M%20j%5B%2C%20Y%5D&background=67A26E&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&border=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
-![snake](https://raw.githubusercontent.com/notAperson535/notAperson535/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanMaker&theme=algolia)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YanMaker&date_format=M%20j%5B%2C%20Y%5D&background=67A26E&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&border=FFFFFF&dates=FFFFFF)
+
+![snake](https://raw.githubusercontent.com/YanMaker/YanMaker/output/github-contribution-grid-snake.svg)
