@@ -1,7 +1,11 @@
 name: Fortune
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.fortune.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_fortune: yes
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  uses: lowlighter/metrics@latest
+  with:
+    filename: metrics.plugin.fortune.svg
+    token: NOT_NEEDED
+    base: ""
+    plugin_fortune: yes
+  
